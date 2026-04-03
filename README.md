@@ -18,11 +18,13 @@ A RP2350 based devboard with esp c6 mini integration for wifi + bluetooth.
 </div>
 
 <h2>Overview</h2>
+
 - A main MCU (RP2350) for input / output pins
 - A coprocessor (ESP32-C6 Mini) for wireless connectivity
 - Power management (USB + battery support with battery charging)
 
 <h3>Hardware Specs</h3>
+
 - RP2350 microcontroller
 - ESP32-C6 Mini (Wi-Fi + Bluetooth via ESP-AT)
 - External 16MB flash memory (128Mbit)
