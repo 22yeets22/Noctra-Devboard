@@ -36,7 +36,9 @@ A RP2350 based devboard with esp c6 mini integration for wifi + bluetooth.
 - ADC filtering + ADC_VREF pin
 
 <h2>How to Use</h2>
+
 Like a normal Pico:
+
 1. Power the board via USB-C, while holding down BOOTSEL to enter firmware writing mode.
 2. Flash firmware by dragging in the firmware file.
 3. Use onboard GPIO headers as you would with a standard Pico, but with wifi connectivity.
